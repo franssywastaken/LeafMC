@@ -5,7 +5,7 @@ A ___Minecraft: Java Edition client (no cheats)___.
 
 # IMPORTANT
 
-BEFORE USE OR MODIFICATION OF LEAF CLIENT, PLEASE VIEW AND READ OUR [LICENSE](https://github.com/LeafClientMC/LeafClient/blob/main/LICENSE.md).
+BEFORE USE OR MODIFICATION OF LEAF CLIENT, PLEASE VIEW AND READ OUR [LICENSE](https://discord.gg/zCzBxHyDFV).
 
 # V1.1 BETA RELEASED
 
