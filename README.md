@@ -7,33 +7,6 @@ A ___Minecraft: Java Edition client (no cheats)___.
 
 BEFORE USE OR MODIFICATION OF LEAF CLIENT, PLEASE VIEW AND READ OUR [LICENSE](https://discord.gg/zCzBxHyDFV).
 
-# V1.1 BETA RELEASED
-
-We've released V1.1 BETA!
-PLEASE EXPECT BUGS! AND REPORT THEM IF FOUND USING THE FEEDBACK SYSTEM ON THE LAUNCHER.
-
-**Currently featuring 20+ client features:**
-- **🛡️ ArmorHUD**
-- **💬 ChatMacros**
-- **📍 CoordinatesHUD**
-- **🖱️ CPSHUD**
-- **🎯 Custom Crosshair**
-- **🎞️ FPSHUD**
-- **👁️ Freelook**
-- **💡 FullBright**
-- **🎨 HUDThemes** (in progress)
-- **🔢 ItemCounterHUD**
-- **⌨️ KeystorkesHUD**
-- **🍃 Leaf Client Logo** (displays next to player name in players list, currently client-sided only)
-- **🗺️ MinimapHUD** (in progress)
-- **📊 Performance Stats**
-- **📶 PingHUD**
-- **🌐 ServerInfo**
-- **🏃 ToggleSprint**
-- **🧎 ToggleCrouch**
-- **📌 Waypoints**
-- **🔍 Zoom**
-
 ## 🤔 Open Source?
 
 No , this would not be an **open source project**.
